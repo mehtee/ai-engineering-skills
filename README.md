@@ -1,4 +1,4 @@
-# AI Engineering Skills
+# Agent Skills for AI Engineering
 
 A curated collection of **Agent Skills** for AI coding assistants (Claude Code, Antigravity CLI, and any tool that loads `SKILL.md` folders). Focus: **Python backends, clean architecture, async systems, and the LangChain / LangGraph / Deep Agents ecosystem**.
 
